@@ -1,5 +1,4 @@
 import java.io.*;
-import java.lang.*;
 
 class CopyFile{
 	public static void main(String[] args) throws IOException{
