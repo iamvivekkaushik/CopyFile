@@ -24,7 +24,7 @@ This Program makes copies of a text file.
 
         java CopyFile 5 "hello.txt" "./New folder"
 
-* run the command for help
+* Run the command given below for help
 
         java CopyFile --help
 

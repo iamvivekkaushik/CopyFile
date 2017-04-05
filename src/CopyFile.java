@@ -26,7 +26,7 @@ class CopyFile{
 			System.out.println("Invalid arguments.\nTry \"java CopyFile --help\" to find out how to use the program.");
 		}
 		if(args.length != 3){
-			System.out.println("Usage: CopyFile from to");
+			System.out.println("For help: java --help");
 			return;
 		}
 		
